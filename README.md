@@ -23,9 +23,9 @@ I'm a final-year BCA student with a primary specialization in **Prompt Engineeri
 
 | Project                   | Description                                                                                                                 | Link                                                                                             |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| **Multifunctional AI Bot**  | A growth project aiming for sentience, this bot generates images and text, performs sentiment/image analysis, and supports voice/text I/O. | `[In Progress]`                                                                          |
-| **Cloud-Based To-Do App**   | A real-time app for recording, reminding, and storing tasks using cloud technology. The front-end is currently under development. | `[In Progress]`                                                                          |
-| **Spam Identification Model** | A highly accurate spam identification model built with Python, featuring a simple web interface using Streamlit.              | `[Link to your project]`                                                                         |
+| **Multifunctional AI Bot**  | A growth project aiming for sentience, this bot generates images and text, performs sentiment/image analysis, and supports voice/text I/O. | `[Improvising...https://github.com/ManuAnand3003/NOVA_AI]`                                                                          |
+| **Cloud-Based To-Do App**   | A real-time app for recording, reminding, and storing tasks using cloud technology. The front-end is currently under development. | `[In Progress...https://github.com/ManuAnand3003/KANBANOS]`                                                                          |
+| **Spam Identification Model** | A highly accurate spam identification model built with Python, featuring a simple web interface using Streamlit.              | `[(https://github.com/ManuAnand3003/spam-sentry)]`                                                                         |
 
 ---
 
